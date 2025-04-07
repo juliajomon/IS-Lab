@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.rmd": "markdown",
+        "types.h": "c",
+        "fcntl.h": "c"
+    }
+}
